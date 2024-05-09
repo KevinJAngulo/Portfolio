@@ -11,8 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/react-portfolio/src/index.js",
-            //"no-browser": true
+            "program": "${file}"
         }
     ]
 }
