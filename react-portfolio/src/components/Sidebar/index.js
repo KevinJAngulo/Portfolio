@@ -3,7 +3,7 @@ import './index.scss';
 import LogoS from '../../assets/images/logo-k4.png'
 import LogoSubtitle from '../../assets/images/logo_sub3.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faHome, faUser, faEnvelope, faProjects, faBriefcase} from '@fortawesome/free-solid-svg-icons'
+import {faHome, faUser, faEnvelope, faBriefcase} from '@fortawesome/free-solid-svg-icons'
 import { faLinkedin, faGithub, } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
