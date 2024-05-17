@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a048b90a.css",
+    "main.js": "./static/js/main.b00e8b17.js",
+    "static/js/453.b3faef14.chunk.js": "./static/js/453.b3faef14.chunk.js",
+    "static/media/box4.png": "./static/media/box4.038b101bef13c12225bd.png",
+    "static/media/box1.png": "./static/media/box1.a63cb96a87ea76b50e2a.png",
+    "static/media/hopper.png": "./static/media/hopper.55f4caca059ded38d28d.png",
+    "static/media/box3.png": "./static/media/box3.f6ae876eaef4ad971f2f.png",
+    "static/media/robots.png": "./static/media/robots.4ca886aa2b9cda4fe874.png",
+    "static/media/box2.png": "./static/media/box2.2847e30b297144e8f040.png",
+    "static/media/information.png": "./static/media/information.a587ee695f7c8b5c4433.png",
+    "static/media/front.png": "./static/media/front.33255e051baf2978b0bc.png",
+    "static/media/box.png": "./static/media/box.a921baaf61ce4f6dd1dd.png",
+    "static/media/hopper4.png": "./static/media/hopper4.2f8728b0260b29e2d443.png",
+    "static/media/hopper1.png": "./static/media/hopper1.c849370afaa5f64f50ea.png",
+    "static/media/nqueens.png": "./static/media/nqueens.dce50130309159c2801f.png",
+    "static/media/hopper2.png": "./static/media/hopper2.848d783a052135fcffdf.png",
+    "static/media/hopper3.png": "./static/media/hopper3.58485b8a81075b4b4d09.png",
+    "static/media/hopper5.png": "./static/media/hopper5.280af472750094b1a6b8.png",
+    "static/media/hangman.png": "./static/media/hangman.7054ca5bdf9890b52b2d.png",
+    "static/media/logo-k4.png": "./static/media/logo-k4.e51039dccc0ca8a19812.png",
+    "static/media/logo_sub3.png": "./static/media/logo_sub3.03b7345be84d0b611f24.png",
+    "static/media/logo-home.png": "./static/media/logo-home.e715773bad87b6f6d203.png",
+    "static/media/helvetica-neu.ttf": "./static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "./static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "./static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "./index.html",
+    "main.a048b90a.css.map": "./static/css/main.a048b90a.css.map",
+    "main.b00e8b17.js.map": "./static/js/main.b00e8b17.js.map",
+    "453.b3faef14.chunk.js.map": "./static/js/453.b3faef14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a048b90a.css",
+    "static/js/main.b00e8b17.js"
+  ]
+}
